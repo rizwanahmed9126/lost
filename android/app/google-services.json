@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "499645688296",
+    "firebase_url": "https://big-unison-321920-default-rtdb.firebaseio.com",
+    "project_id": "big-unison-321920",
+    "storage_bucket": "big-unison-321920.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:499645688296:android:d99fcf9c5def1342da1c5d",
+        "android_client_info": {
+          "package_name": "com.appstirr.lost"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "499645688296-rlv3fuujhmd65esekltau117imjqr083.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.appstirr.lost",
+            "certificate_hash": "386659edfad1c5bbace4a230b3fdec0b92dc24fd"
+          }
+        },
+        {
+          "client_id": "499645688296-n2cma9nhea91714beetlmtjql7pp9llg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDw74pWuCKeN3EPcea3OcPdyzlsJifyjVA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "499645688296-n2cma9nhea91714beetlmtjql7pp9llg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
